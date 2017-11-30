@@ -14,7 +14,9 @@
 
   - A highly customized Dash app, styled just like a Goldman Sachs report
 
-    ![1_8pAScaJTQH3nLC8CtmwYoQ](/Users/mattmccarthy/Downloads/1_8pAScaJTQH3nLC8CtmwYoQ.gif)
+  - ![](https://imgur.com/a/UJARx)
+
+    ![](/Users/mattmccarthy/Downloads/1_8pAScaJTQH3nLC8CtmwYoQ.gif)
 
     ​													
 
