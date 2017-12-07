@@ -1,0 +1,5 @@
+from bittrex import Bittrex
+
+my_bittrex = Bittrex(None, None, api_version=API_V2_0)  # or defaulting to v1.1 as Bittrex(None, None)
+my_bittrex.get_markets()
+{'success': True, 'message': '', 'result': [{'MarketCurrency': 'LTC', ...
